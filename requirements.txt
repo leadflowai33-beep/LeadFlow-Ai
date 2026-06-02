@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+groq
+twilio
+lxml
+dnspython
+playwright
+flask
+gunicorn
+python-dotenv

@@ -1,0 +1,6 @@
+*.csv
+*.json
+__pycache__/
+*.pyc
+leadflow_checkpoints/
+.env
